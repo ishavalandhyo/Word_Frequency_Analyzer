@@ -8,7 +8,8 @@ The word frequency analyzer determines how often each word appears in the text f
 
 # To run the program 
 Run " python preprocessing.py" to clean the text file. 
-. Run "python main.py" to execute the main python script.
+
+Run "python main.py" to execute the main python script.
  
 # Working of Word Frequency Analyzer
 1. Read the sample.txt file and store the text file in a string variable
