@@ -1,16 +1,16 @@
-#Word Frequency Analyzer
+# Word Frequency Analyzer
 
 The word frequency analyzer determines how often each word appears in the text file.
 
 # Process
-Step 0: I have taken sample.txt from the "Fundamentals of Data Science" book. And clean the text by removing special characters from the text.
-Step 1: Develop a word Frequency Analyzer that counts the frequency of the top 10 words with the highest frequency from cleaned_sample.txt file.
+0: I have taken sample.txt from the "Fundamentals of Data Science" book. And clean the text by removing special characters from the text.
+1: Develop a word Frequency Analyzer that counts the frequency of the top 10 words with the highest frequency from cleaned_sample.txt file.
 
-#To run the program 
+# To run the program 
 Run " python preprocessing.py" to clean the text file. 
 Run "python main.py" to execute the main python script.
  
-#Working of Word Frequency Analyzer
+# Working of Word Frequency Analyzer
 1. Read the sample.txt file and store the text file in a string variable
 2. Each words of it  are change into lowercase using the lower() function 
 3. Text is split into words.
